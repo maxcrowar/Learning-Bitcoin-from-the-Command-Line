@@ -2,15 +2,15 @@
 
 Version 1.0
 
-Name: `$name`
+Name: Maximiliano Goyheneche
 
-E-Mail: `$email`
+E-Mail: maxigoyheneche@gmail.com
 
 Legal Jurisdiction: Wyoming, United States of America
 
 Project: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
 
-Date: `$date`
+Date: 10/22/2021
 
 ## Purpose
 
